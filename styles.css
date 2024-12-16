@@ -18,10 +18,9 @@ img {
 
 
 div {
-    position: absolute;
-    top: 50px;
-    left: -50px;
-    width: 22%;
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
     background-color: aqua;
 }
 
